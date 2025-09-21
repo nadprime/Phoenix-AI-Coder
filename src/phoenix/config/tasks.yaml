@@ -1,0 +1,18 @@
+fix_task:
+  description: >
+    Take the user's input code. Attempt to execute it using the code interpreter tool. 
+    If it runs successfully, return it as is. If there's an error, analyze the error message, 
+    propose a fixed version of the code, and test again. Repeat up to 5 times or until it succeeds. 
+    If it still fails after max attempts, return the best attempt with notes on remaining issues.
+    User's code: {{user_code}}
+    Expected behavior (if provided): {{expected_behavior}}
+  expected_output: >
+    The final corrected code snippet that runs without errors, or the best attempt with explanations.
+  agent: fixer_agent
+
+verify_task:
+  description: >
+    Review the fixed code from the previous task. Check for improvements in readability, efficiency, and adherence to Python best practices. Suggest minor refinements if needed, but do not overhaul unless necessary.
+  expected_output: >
+    The verified and potentially refined code, with a summary of changes.
+  agent: verifier_agent

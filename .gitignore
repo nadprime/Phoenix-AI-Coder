@@ -1,0 +1,127 @@
+# Environment variables and sensitive data
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.key
+config.json
+secrets.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+.env/
+
+# UV package manager
+uv.lock
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.sublime-project
+.sublime-workspace
+
+# Operating System
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+*.db
+
+# AI/ML specific
+models/
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.hdf5
+checkpoints/
+runs/
+wandb/
+.neptune/
+
+# Streamlit
+.streamlit/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+temp/
+tmp/
+
+# Coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Documentation
+docs/_build/
+.readthedocs.yml
+
+# Large files that shouldn't be in git
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# CrewAI specific
+crew_output/
+agent_logs/
+task_results/
+
+# Project specific
+knowledge/user_uploads/
+history/
+cache/
