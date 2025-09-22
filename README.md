@@ -17,6 +17,8 @@
 
 ### Demo Video: https://youtu.be/vF1zcU_vNj4
 
+## Screenshots:
+
 <img width="1920" height="1080" alt="s1" src="https://github.com/user-attachments/assets/48baf75f-d06f-43f9-9533-1d777da2cad1" />
 
 <br>
@@ -42,6 +44,7 @@
 <br>
 <br>
 
+---
 
 ### 🎯 Key Innovation
 
