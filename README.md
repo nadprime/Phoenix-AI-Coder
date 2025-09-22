@@ -15,6 +15,32 @@
 
 **Phoenix** is a revolutionary AI-powered code fixing system that automatically identifies, analyzes, and repairs Python code errors using advanced multi-agent technology. Like the mythical phoenix rising from ashes, this system breathes new life into broken code, transforming errors into elegant, working solutions.
 
+<img width="1920" height="1080" alt="s1" src="https://github.com/user-attachments/assets/48baf75f-d06f-43f9-9533-1d777da2cad1" />
+
+<br>
+<br>
+
+<img width="1920" height="1080" alt="s2" src="https://github.com/user-attachments/assets/929b17e4-6e58-47e6-92d2-87ed7ff813c4" />
+
+<br>
+<br>
+
+<img width="1920" height="1080" alt="s3" src="https://github.com/user-attachments/assets/582b7028-4ed2-4df7-a0fa-24757a1c28e5" />
+
+<br>
+<br>
+
+<img width="1920" height="1080" alt="s4" src="https://github.com/user-attachments/assets/2bd2d1fd-40fa-4ed2-bf59-f57bbc8e4239" />
+
+<br>
+<br>
+
+<img width="1920" height="1080" alt="s5" src="https://github.com/user-attachments/assets/f34d5636-5ba9-499a-b1c6-d11e6fbc69c8" />
+
+<br>
+<br>
+
+
 ### 🎯 Key Innovation
 
 - **Multi-Agent Architecture**: Two specialized AI agents (Fixer + Verifier) work collaboratively
