@@ -5,8 +5,9 @@
 [![CrewAI](https://img.shields.io/badge/CrewAI-Multi--Agent-orange.svg)](https://crewai.com)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Web--App-red.svg)](https://streamlit.io)
 [![Google Gemini](https://img.shields.io/badge/Google-Gemini%202.5%20Flash-green.svg)](https://ai.google.dev/)
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)
 
-> **Winner Project** - *Intelligent code fixing system that resurrects broken Python code using multi-agent AI collaboration*
+> **USP** - *Intelligent code fixing system that resurrects broken Python code using multi-agent AI collaboration*
 
 ---
 
@@ -286,6 +287,7 @@ pytest tests/
 
 Copyright (c) 2025 Phoenix AI Project Contributors
 
+<h6>
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -303,40 +305,50 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+</h6>
 
 ### Third-Party Licenses
-
+<h6>
 This project includes and builds upon several open-source libraries:
 
 - **CrewAI**: Licensed under MIT License
 - **Streamlit**: Licensed under Apache License 2.0
 - **Google Generative AI**: Subject to Google API Terms of Service
 - **Python Libraries**: Various licenses (see requirements for details)
+</h6>
 
 ### Usage Rights
-
-✅ **Commercial Use**: Use Phoenix in commercial projects  
-✅ **Modification**: Modify and adapt the code  
-✅ **Distribution**: Share and distribute the software  
-✅ **Private Use**: Use for personal and internal projects  
-✅ **Patent Grant**: Patent rights included  
+<h6>
+    
+- ✅ **Commercial Use**: Use Phoenix in commercial projects  
+- ✅ **Modification**: Modify and adapt the code  
+- ✅ **Distribution**: Share and distribute the software  
+- ✅ **Private Use**: Use for personal and internal projects  
+- ✅ **Patent Grant**: Patent rights included
+   
+</h6>
 
 ### Limitations
 
-❌ **Liability**: No warranty or liability provided  
-❌ **Trademark**: Trademark rights not included  
-❌ **API Keys**: Users must provide their own API credentials  
+<h6>
+    
+- ❌ **Liability**: No warranty or liability provided  
+- ❌ **Trademark**: Trademark rights not included  
+- ❌ **API Keys**: Users must provide their own API credentials
+   
+</h6>
 
 ### Contributing
-
+<h6>
 By contributing to Phoenix, you agree that your contributions will be licensed under the same MIT License that covers the project.
+</h6>
 
 ---
 
 ## 🏆 Acknowledgments
 
 - **CrewAI Team** for the amazing multi-agent framework
-- **Google** for Gemini 1.5 Flash API access
+- **Google** for Gemini 2.5 Flash API access
 - **Streamlit** for the intuitive web framework
 - **Open Source Community** for inspiration and tools
 
